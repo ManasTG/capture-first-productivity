@@ -1,6 +1,0 @@
-module CaptureFirstProductivity
-typeinfo cpf.qmltypes
-prefer :/qt/qml/CaptureFirstProductivity/
-Main 1.0 src/ui/Main.qml
-depends QtQuick
-

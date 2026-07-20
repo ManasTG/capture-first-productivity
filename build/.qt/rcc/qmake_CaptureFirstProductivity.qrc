@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/CaptureFirstProductivity">
-    <file alias="qmldir">/home/krane/Manas/Projects/OpenSource/capture-first-productivity/build/CaptureFirstProductivity/qmldir</file>
-  </qresource>
-</RCC>
-
