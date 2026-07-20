@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/CaptureFirstProductivity/">
+    <file alias="src/ui/Main.qml">/home/krane/Manas/Projects/OpenSource/capture-first-productivity/src/ui/Main.qml</file>
+  </qresource>
+</RCC>
+

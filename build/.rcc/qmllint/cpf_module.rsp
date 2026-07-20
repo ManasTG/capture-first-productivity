@@ -1,0 +1,16 @@
+-I
+/home/krane/Manas/Projects/OpenSource/capture-first-productivity/build
+-I
+/home/krane/Manas/Projects/OpenSource/capture-first-productivity/build/CaptureFirstProductivity
+-I
+/home/krane/Manas/Projects/OpenSource/capture-first-productivity/build
+-I
+/usr/lib/x86_64-linux-gnu/qt6/qml
+--resource
+/home/krane/Manas/Projects/OpenSource/capture-first-productivity/build/.qt/rcc/qmake_CaptureFirstProductivity.qrc
+--resource
+/home/krane/Manas/Projects/OpenSource/capture-first-productivity/build/.qt/rcc/cpf_raw_qml_0.qrc
+--resource
+/home/krane/Manas/Projects/OpenSource/capture-first-productivity/build/.qt/rcc/cpf_raw_qml_0_extra_qmldirs.qrc
+--module
+CaptureFirstProductivity
